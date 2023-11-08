@@ -116,4 +116,5 @@ Execute the program
 ```
 
 # OUPUT
-![output](./Screenshot%202023-11-08%20195607.png)
+![output](https://github.com/Kishorerz/timetable/assets/144451216/54f832c3-d624-498b-a9e0-6928ee359bf6)
+
